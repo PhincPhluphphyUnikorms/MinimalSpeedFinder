@@ -1,0 +1,6 @@
+build-uno
+build*
+.idea
+CMakeLists.txt
+.gout*
+cmake
